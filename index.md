@@ -10,10 +10,11 @@
 1. <a href="#page_8">Aventuriers</a>
    1. <a href="#page_81">Vivelame</a>
    1. <a href="#page_84">Arpenteuse des Ombres</a>
+   1. <a href="#page_811">"Chaînes"</a>
 1. <a href="#page_11"> Typos</a>
 
 ## <a name="page_0" class="page-number">0.0</a> À propos de ce document
-Ce document est un errata non officiel de la traduction française de Frosthaven. Il sera mis à jour au fur et à mesure que de nouvelles erreurs sont découvertes. Cet errata se base sur [la FAQ officielle de Frosthaven](https://cephalofairgames.github.io/frosthaven-faq/), ainsi que [la compilation de tous les assets de Frosthaven](https://github.com/any2cards/worldhaven/).
+Ce document est un errata non officiel de la traduction française de Frosthaven. Il sera mis à jour au fur et à mesure que de nouvelles erreurs sont découvertes. Les références utilisées pour cet errata sont [la FAQ officielle de Frosthaven](https://cephalofairgames.github.io/frosthaven-faq/), ainsi que [la compilation de tous les assets de Frosthaven](https://github.com/any2cards/worldhaven/).
 
 Ce document n'a pas pour but de répondre à des questions de règles de jeu, mais uniquement de recenser toutes les erreurs entre la version originale et la traduction française. Pour des questions précises de règles, se référer à la FAQ citée ci-dessus (en anglais).
 
@@ -26,11 +27,17 @@ Ce document respecte les règles officielles à propos des spoilers. Seuls les b
 
 **Obstacles (page 15) -** Un personnage avec vol peut terminer son déplacement sur un obstacle, mais un personnage avec saut ne peut faire de même. Pour lever toute ambigüité, le texte entre parenthèse devrait être «*(à moins que le saut ne s'y termine)*».
 
+**Cartes Capacité de Monstre (page 40) -** La défausse n'est remélangée dans la pioche qu'à la fin d'un round où une carte avec l'icône « Mélanger » est jouée, et non pas à la fin d'un tour.
+
 ![divider](/assets/images/divider.png)
 
 ### <a name="page_9" class="page-number">2.0</a> Scénarios
 
-**Scénarios 20 -** Les règles spéciales de la section 14.3 sont incomplètes. La traduction complète est: <span class="hidden"> Ne générez pas l'Hélice Ardente pour la dernière Armoire en Métal. À la place, générez deux Automates d'Acier sur l'Orbe Lumineux. Ils sont normaux (pour deux aventuriers) ou d'élite (pour trois ou quatre aventuriers). L'Orbe Lumineux peut désormais subir des dégâts. Il a Ax(NS+2) points de vie. C'est votre adversaire et l'allié de tous les monstres.</span>
+**Scénario 7 - Section 7.2 -** <span class="hidden"> Au début du cinquième round, générez un Cadavre Gelé sur **c** et non sur **b**.</span>
+
+**Scénario 20 -** Les règles spéciales de la section 14.3 sont incomplètes. La traduction complète est: <span class="hidden"> Ne générez pas l'Hélice Ardente pour la dernière Armoire en Métal. À la place, générez deux Automates d'Acier sur l'Orbe Lumineux. Ils sont normaux (pour deux aventuriers) ou d'élite (pour trois ou quatre aventuriers). L'Orbe Lumineux peut désormais subir des dégâts. Il a Ax(NS+2) points de vie. C'est votre adversaire et l'allié de tous les monstres.</span>
+
+**Scénario 34 -** Les Étincelles du Chaos ont 1+NS points de vie, et non pas 1+A points de vie.
 
 ![divider](/assets/images/divider.png)
 
@@ -46,11 +53,7 @@ Ce document respecte les règles officielles à propos des spoilers. Seuls les b
 
 ### ![Blinkblade Icon](/assets/images/02_blinkblade.webp) <a name="page_82" class="page-number">1.1</a> Vivelame
 
-**Délit de Fuite (1, action inférieure) -** Une meilleure traduction pour cette action serait «*Lors de vos cinq prochaines actions d'attaques **où** vous êtes Rapide...*». N'avancez pas le pion Aventurier et ne recevez aucun bonus lorsque vous êtes Lent.
-
-**En Sursis (1, action supérieure) -** Une meilleure traduction pour cette action serait «*Lors de vos six prochaines actions **où** vous êtes Lent...*». N'avancez pas le pion Aventurier et ne recevez aucun bonus lorsque vous êtes Rapide.
-
-**Deux-Temps (3, action inférieure) -** Une meilleure traduction pour cette action serait «*Lors de vos trois prochains tours **où** vous êtes Rapide...*». N'avancez pas le pion Aventurier et ne recevez aucun bonus lorsque vous êtes Lent.
+**Délit de Fuite (1, action inférieure), En Sursis (1, action supérieure), Deux-Temps (3, action inférieure) -** Pour toutes ces actions, une meilleure traduction serait «*Lors de vos prochaines actions **où** vous êtes...*». Si vous n'êtes pas dans le bon mode (par exemple, si vous avez joué *Délit de Fuite* et que vous êtes Lent), n'avancez pas le pion Aventurier et ne recevez aucun bonus.
 
 **Incertitude Quantique (8, action supérieure) -** Lorsque vous êtes Lent, traitez uniquement les modificateurs "réussite critique" (ceci inclue les cartes issues de l'état *Bénédiction*) comme des modificateurs "échec critique", et vice-versa lorsque vous êtes Rapide (en incluant les cartes issues de l'état *Malédiction*). Tous les autres modificateurs ne sont pas affectés et se comportent normalement.
 
@@ -62,6 +65,15 @@ La bonne traduction pour cette carte serait, dans le cas Rapide, «*traitez tous
 
 **Figé de Peur (8, action supérieure) -** Il y a un symbole "dégâts" supplémentaire au dessus du cartouche dans le coin inférieur de l'action. Ce symbole ne correspond à rien, ignorez le.
 
+<br>
+![divider](/assets/images/divider2.png)
+
+### ![Shackles Icon](/assets/images/11_shackles.webp) <a name="page_811" class="page-number">1.1</a> "Chaînes"
+<details>
+<summary><b>Spoilers pour Chaînes</b></summary>
+<p><b>Seconde maîtrise -</b> Remplacez "Bénédiction" par "Étourdissement". Vous devez bien commencer un tour avec tous les états négatifs à l'exception de "Incapacité" (et "Malédiction").</p>
+</details>
+<br>
 ![divider](/assets/images/divider.png)
 
 ### <a name="page_11" class="page-number">5.0</a> Typos
