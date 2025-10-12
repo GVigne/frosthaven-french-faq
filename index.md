@@ -11,6 +11,7 @@
    1. <a href="#page_81">Vivelame</a>
    1. <a href="#page_84">Arpenteuse des Ombres</a>
    1. <a href="#page_811">"Chaînes"</a>
+    1. <a href="#page_816">"Prisme"</a>
 1. <a href="#page_11"> Typos</a>
 
 ## <a name="page_0" class="page-number">0.0</a> À propos de ce document
@@ -51,7 +52,7 @@ Ce document respecte les règles officielles à propos des spoilers. Seuls les b
 
 ## <a name="page_8" class="page-number">4.0</a> Aventuriers
 
-### ![Blinkblade Icon](/assets/images/02_blinkblade.webp) <a name="page_82" class="page-number">1.1</a> Vivelame
+### ![Blinkblade Icon](/assets/images/02_blinkblade.webp) <a name="page_81" class="page-number">4.1</a> Vivelame
 
 **Délit de Fuite (1, action inférieure), En Sursis (1, action supérieure), Deux-Temps (3, action inférieure) -** Pour toutes ces actions, une meilleure traduction serait «*Lors de vos prochaines actions **où** vous êtes...*». Si vous n'êtes pas dans le bon mode (par exemple, si vous avez joué *Délit de Fuite* et que vous êtes Lent), n'avancez pas le pion Aventurier et ne recevez aucun bonus.
 
@@ -61,20 +62,30 @@ La bonne traduction pour cette carte serait, dans le cas Rapide, «*traitez tous
 
 ![divider](/assets/images/divider2.png)
 
-### ![Deathwalker Icon](/assets/images/04_deathwalker.webp) <a name="page_84" class="page-number">1.2</a> Arpenteuse des Ombres
+### ![Deathwalker Icon](/assets/images/04_deathwalker.webp) <a name="page_84" class="page-number">4.2</a> Arpenteuse des Ombres
 
 **Figé de Peur (8, action supérieure) -** Il y a un symbole "dégâts" supplémentaire au dessus du cartouche dans le coin inférieur de l'action. Ce symbole ne correspond à rien, ignorez le.
 
 <br>
 ![divider](/assets/images/divider2.png)
 
-### ![Shackles Icon](/assets/images/11_shackles.webp) <a name="page_811" class="page-number">1.1</a> "Chaînes"
+### ![Shackles Icon](/assets/images/11_shackles.webp) <a name="page_811" class="page-number">4.3</a> "Chaînes"
 <details>
 <summary><b>Spoilers pour Chaînes</b></summary>
 <p><b>Seconde maîtrise -</b> Remplacez "Bénédiction" par "Étourdissement". Vous devez bien commencer un tour avec tous les états négatifs à l'exception de "Incapacité" (et "Malédiction").</p>
 </details>
 <br>
+![divider](/assets/images/divider2.png)
+
+### ![Prism Icon](/assets/images/16_prism.webp) <a name="page_816" class="page-number">4.4</a> "Prisme"
+<details>
+<summary><b>Spoilers pour Prisme</b></summary>
+<p><b>Fiche de personnage - Deuxième et troisième bénéfice -</b> Il manque les valeurs numérique des cartes ajoutées par ces bénéfices: pour le second, la carte ajoutée a une valeur de «+0», et pour le troisième, la carte ajoutée a une valeur de «+1». Notez que les cartes modificateurs d'attaques présentent bien la bonne valeur numérique. </p>
+</details>
+<br>
+
 ![divider](/assets/images/divider.png)
+
 
 ### <a name="page_11" class="page-number">5.0</a> Typos
 Le but de cette section est de recenser toutes les erreurs de typographies qui ne présentent pas de problèmes de compréhension ou qui ne modifient pas les règles du jeu.
@@ -82,3 +93,21 @@ Le but de cette section est de recenser toutes les erreurs de typographies qui n
 **Livret de règles (page 79) -** Il manque les coches pour les contenus des coffres pillés.
 
 **Scénarios 65 -** À la quatrième ligne de l'avant-dernier paragraphe de l'introduction: «*avez l'impression qu'il que l'air*».
+
+**Verso du plateau d'aventurier de la Porte-Bannière -** À la troisième et quatrième ligne du deuxième paragraphe: «*Mais à Havreblanc l'orgueil n'a pas sa place. Mais Havreblanc n'a que faire de l'orgueil*».
+
+<script>
+	function reveal(obj) {
+	  console.log(this);
+	  obj.className = "visible";
+	}
+
+	const hiddens = document.getElementsByClassName("hidden");
+
+	for (let i = 0; i < hiddens.length; i++) {
+		var hidden = hiddens[i];
+		hidden.onclick = function() {
+			reveal(this);
+		}
+	}
+</script>
