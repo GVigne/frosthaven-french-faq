@@ -10,8 +10,10 @@
 1. <a href="#page_8">Aventuriers</a>
    1. <a href="#page_81">Vivelame</a>
    1. <a href="#page_84">Arpenteuse des Ombres</a>
-   1. <a href="#page_811">"Chaînes"</a>
-    1. <a href="#page_816">"Prisme"</a>
+   1. <a href="#page_85">Marionnettiste</a>
+   1. <a href="#page_86">Géminé</a>
+   1. <a href="#page_811">«Chaînes»</a>
+   1. <a href="#page_816">«Prisme»</a>
 1. <a href="#page_11"> Typos</a>
 
 ## <a name="page_0" class="page-number">0.0</a> À propos de ce document
@@ -46,7 +48,7 @@ Ce document respecte les règles officielles à propos des spoilers. Seuls les b
 
 **Énigme page 4 -** Il y a une erreur dans l'en-tête de la section correspondant à la solution de cet énigme. Celui-ci indique «*Solution de l'Énigme de la page 8*», alors qu'il devrait indiquer «*Solution de l'Énigme de la page 4*». La solution de cette énigme est bien le numéro <span class="hidden"> 30.6 </span>.
 
-**Indice pour l'énigme de la page 4 -** Une traduction plus littérale de la dernière phrase du paragraphe de l'énoncé de l'énigme serait <span class="hidden"> «*Je ne suis sûr de rien, mais si vous avez trois mots qui correspondent, cela pourrait nous mener vers autre chose*» </span>. <span class="hidden"> Pour résoudre cette énigme et progresser vers la page suivante du livret d'éngimes, il n'est donc pas nécessaire de </span> <span class="hidden"> trouver la signification des trois mots évoqués par Crain </span>.
+**Indice pour l'énigme de la page 4 -** Une traduction plus littérale de la dernière phrase du paragraphe de l'énoncé de l'énigme serait <span class="hidden"> «*Je ne suis sûr de rien, mais si vous avez trois mots qui correspondent, cela pourrait nous mener vers autre chose*» </span>.
 
 ![divider](/assets/images/divider.png)
 
@@ -56,7 +58,7 @@ Ce document respecte les règles officielles à propos des spoilers. Seuls les b
 
 **Délit de Fuite (1, action inférieure), En Sursis (1, action supérieure), Deux-Temps (3, action inférieure) -** Pour toutes ces actions, une meilleure traduction serait «*Lors de vos prochaines actions **où** vous êtes...*». Si vous n'êtes pas dans le bon mode (par exemple, si vous avez joué *Délit de Fuite* et que vous êtes Lent), n'avancez pas le pion Aventurier et ne recevez aucun bonus.
 
-**Incertitude Quantique (8, action supérieure) -** Lorsque vous êtes Lent, traitez uniquement les modificateurs "réussite critique" (ceci inclue les cartes issues de l'état *Bénédiction*) comme des modificateurs "échec critique", et vice-versa lorsque vous êtes Rapide (en incluant les cartes issues de l'état *Malédiction*). Tous les autres modificateurs ne sont pas affectés et se comportent normalement.
+**Incertitude Quantique (8, action supérieure) -** Lorsque vous êtes Lent, traitez uniquement les modificateurs «réussite critique» (ceci inclue les cartes issues de l'état *Bénédiction*) comme des modificateurs «échec critique», et vice-versa lorsque vous êtes Rapide (en incluant les cartes issues de l'état *Malédiction*). Tous les autres modificateurs ne sont pas affectés et se comportent normalement.
 
 La bonne traduction pour cette carte serait, dans le cas Rapide, «*traitez tous les modificateurs d'attaque <img src="/assets/images/null.webp" alt="drawing"  width="20"/> comme des <img src="/assets/images/crit.webp" alt="drawing"  width="20"/>*» (et réciproquement pour le cas Lent).
 
@@ -64,20 +66,34 @@ La bonne traduction pour cette carte serait, dans le cas Rapide, «*traitez tous
 
 ### ![Deathwalker Icon](/assets/images/04_deathwalker.webp) <a name="page_84" class="page-number">4.2</a> Arpenteuse des Ombres
 
-**Figé de Peur (8, action supérieure) -** Il y a un symbole "dégâts" supplémentaire au dessus du cartouche dans le coin inférieur de l'action. Ce symbole ne correspond à rien, ignorez le.
+**Figé de Peur (8, action supérieure) -** Il y a un symbole «dégâts» supplémentaire au dessus du cartouche dans le coin inférieur de l'action. Ce symbole ne correspond à rien, ignorez le.
+
+![divider](/assets/images/divider2.png)
+
+### ![Boneshaper Icon](/assets/images/05_boneshaper.webp) <a name="page_85" class="page-number">4.3</a> Marionnettiste
+
+**Exigence Spirituelle (7, action inférieure) -** Cette capacité est active pendant le reste du **round** et non pas le reste de votre tour.
+
+![divider](/assets/images/divider2.png)
+
+### ![Geminate Icon](/assets/images/06_geminate.webp) <a name="page_86" class="page-number">4.4</a> Géminé
+
+**Essaim Chitineux (5, action inférieure) -** Seul un allié **adjacent** peut subir deux dégâts afin que vous puissez générer des éléments, et pas n'importe quel allié.
+
+**Hirudothérapie (6, action supérieure) -** Il faut remplacer *«capacité d'attaque»* par *«capacité de dégâts* (la première capacité de cette carte n'est pas une capacité d'attaque).
 
 <br>
 ![divider](/assets/images/divider2.png)
 
-### ![Shackles Icon](/assets/images/11_shackles.webp) <a name="page_811" class="page-number">4.3</a> "Chaînes"
+### ![Shackles Icon](/assets/images/11_shackles.webp) <a name="page_811" class="page-number">4.5</a> «Chaînes»
 <details>
 <summary><b>Spoilers pour Chaînes</b></summary>
-<p><b>Seconde maîtrise -</b> Remplacez "Bénédiction" par "Étourdissement". Vous devez bien commencer un tour avec tous les états négatifs à l'exception de "Incapacité" (et "Malédiction").</p>
+<p><b>Seconde maîtrise -</b> Remplacez «Bénédiction» par «Étourdissement». Vous devez bien commencer un tour avec tous les états négatifs à l'exception de «Incapacité» (et «Malédiction»).</p>
 </details>
 <br>
 ![divider](/assets/images/divider2.png)
 
-### ![Prism Icon](/assets/images/16_prism.webp) <a name="page_816" class="page-number">4.4</a> "Prisme"
+### ![Prism Icon](/assets/images/16_prism.webp) <a name="page_816" class="page-number">4.6</a> «Prisme»
 <details>
 <summary><b>Spoilers pour Prisme</b></summary>
 <p><b>Fiche de personnage - Deuxième et troisième bénéfice -</b> Il manque les valeurs numérique des cartes ajoutées par ces bénéfices: pour le second, la carte ajoutée a une valeur de «+0», et pour le troisième, la carte ajoutée a une valeur de «+1». Notez que les cartes modificateurs d'attaques présentent bien la bonne valeur numérique. </p>
@@ -91,6 +107,8 @@ La bonne traduction pour cette carte serait, dans le cas Rapide, «*traitez tous
 Le but de cette section est de recenser toutes les erreurs de typographies qui ne présentent pas de problèmes de compréhension ou qui ne modifient pas les règles du jeu.
 
 **Livret de règles (page 79) -** Il manque les coches pour les contenus des coffres pillés.
+
+**Quête Personnelle 05 (Bâtir, pas Détruire) -** À la fin de la dernière phrase: «*l'agrandissement de douze bâtiments de bâtiments différents*».
 
 **Scénarios 65 -** À la quatrième ligne de l'avant-dernier paragraphe de l'introduction: «*avez l'impression qu'il que l'air*».
 
