@@ -2,7 +2,7 @@
 
 # **ERRATA NON OFFICIEL DE LA VF DE FROSTHAVEN**
 
-*Dernière mise à jour le 2025-10-16*
+*Dernière mise à jour le 2025-10-18*
 
 1. <a href="#page_3">Livret de règles</a>
 1. <a href="#page_10">Livret des énigmes</a>
@@ -19,11 +19,13 @@
 1. <a href="#page_11">Typos</a>
 
 ## <a name="page_0" class="page-number">0.0</a> À propos de ce document
-Ce document est un errata non officiel de la traduction française de Frosthaven. Il sera mis à jour au fur et à mesure que de nouvelles erreurs sont découvertes. Les références utilisées pour cet errata sont [la FAQ officielle de Frosthaven](https://cephalofairgames.github.io/frosthaven-faq/), ainsi que [la compilation de tous les assets de Frosthaven](https://github.com/any2cards/worldhaven/).
+Ce document est un errata non officiel de la traduction française de Frosthaven. Il sera mis à jour au fur et à mesure que de nouvelles erreurs sont découvertes. Les références anglaises utilisées pour cet errata sont [la FAQ officielle de Frosthaven](https://cephalofairgames.github.io/frosthaven-faq/), ainsi que [la compilation de tous les assets de Frosthaven](https://github.com/any2cards/worldhaven/).
 
 Ce document n'a pas pour but de répondre à des questions de règles de jeu, mais uniquement de recenser toutes les erreurs entre la version originale et la traduction française. Pour des questions précises de règles, se référer à la FAQ citée ci-dessus (en anglais).
 
-Ce document respecte les règles officielles à propos des spoilers. Seuls les bâtiments initialement constructibles, les cartes de niveau 1 à 9 des six aventuries de départ, les scénarios 0 et 1, les quêtes personnelles de 01 à 10, les objets de départs et les caractéristiques et capacités des monstres ne sont pas considérés comme des spoilers. Notez que si vous utilisez la fonction de recherche de votre navigateur, celui-ci trouvera des mots cachés derrière les balises de spoilers.
+Ce document respecte les règles officielles à propos des spoilers. Seuls les bâtiments initialement constructibles, les cartes de niveau 1 à 9 des six aventuriers de départ, les scénarios 0 et 1, les quêtes personnelles de 01 à 10, les objets de départs et les caractéristiques et capacités des monstres ne sont pas considérés comme des spoilers. Notez que si vous utilisez la fonction de recherche de votre navigateur, celui-ci trouvera des mots cachés derrière les balises de spoilers.
+
+Si vous repérez une erreur qui n'est pas listée ici, n'hésitez pas à m'en faire part, idéalement en commentant sur [ce fil BGG](https://boardgamegeek.com/thread/3476117/les-erreurs-de-frosthaven-en-francais), ou bien par message privé sur BGG ou Reddit (u/Ekasalys), ou encore en ouvrant une [issue Github](https://github.com/GVigne/frosthaven-french-faq). Merci de respecter les règles concernant les spoilers.
 
 ![divider](/assets/images/divider.png)
 
@@ -32,15 +34,15 @@ Ce document respecte les règles officielles à propos des spoilers. Seuls les b
 
 **Obstacles (page 15) -** Un personnage avec vol peut terminer son déplacement sur un obstacle, mais un personnage avec saut ne peut faire de même. Pour lever toute ambigüité, le texte entre parenthèse devrait être «*(à moins que le saut ne s'y termine)*».
 
-**Cartes Capacité de Monstre (page 40) -** La défausse n'est remélangée dans la pioche qu'à la fin d'un round où une carte avec l'icône « Mélanger » est jouée, et non pas à la fin d'un tour.
+**Cartes Capacité de Monstre (page 40) -** La défausse n'est remélangée dans la pioche qu'à la fin d'un *round* où une carte avec l'icône « Mélanger » est jouée, et non pas à la fin d'un tour.
 
 ![divider](/assets/images/divider.png)
 
 ### <a name="page_10" class="page-number">2.0</a> Livret des énigmes
 
-**Énigme page 4 -** Il y a une erreur dans l'en-tête de la section correspondant à la solution de cette énigme. Celui-ci indique «*Solution de l'Énigme de la page 8*», alors qu'il devrait indiquer «*Solution de l'Énigme de la page 4*». La solution de cette énigme est bien le numéro <span class="hidden"> 30.6 </span>.
+**Énigme page 4 -** Il y a une erreur dans l'en-tête de la section correspondant à la solution de cette énigme. Celui-ci indique «*Solution de l'Énigme de la page 8*», alors qu'il devrait indiquer «*Solution de l'Énigme de la page 4*». La solution de cette énigme est bien le numéro de section <span class="hidden"> 30.6 </span>.
 
-**Indice pour l'énigme de la page 4 -** Une traduction plus littérale de la dernière phrase du dernier paragraphe de l'énoncé de l'énigme serait <span class="hidden"> «*Je ne suis sûr de rien, mais si vous avez trois mots qui correspondent, cela pourrait nous mener vers autre chose*» </span>.
+**Remarque sur l'énigme de la page 4 -** Une traduction plus littérale de la dernière phrase du dernier paragraphe de l'énoncé de l'énigme serait <span class="hidden"> «*Je ne suis sûr de rien, mais si vous avez trois mots qui correspondent, cela pourrait nous mener vers autre chose*» </span>.
 
 ![divider](/assets/images/divider.png)
 
@@ -48,11 +50,11 @@ Ce document respecte les règles officielles à propos des spoilers. Seuls les b
 
 ### ![Blinkblade Icon](/assets/images/02_blinkblade.webp) <a name="page_81" class="page-number">3.1</a> Vivelame
 
-**Délit de Fuite (1, action inférieure), En Sursis (1, action supérieure), Deux-Temps (3, action inférieure) -** Pour toutes ces actions, une meilleure traduction serait «*Lors de vos prochaines actions **où** vous êtes...*». Si vous n'êtes pas dans le bon mode (par exemple, si vous avez joué *Délit de Fuite* et que vous êtes Lent), n'avancez pas le pion Aventurier et ne recevez aucun bonus.
+**Délit de Fuite (1, action inférieure), En Sursis (1, action supérieure), Deux-Temps (3, action inférieure) -** Pour toutes ces actions, une meilleure formulation serait «*Lors de vos prochaines actions **où** vous êtes...*». Si vous n'êtes pas dans le bon mode (par exemple, si vous avez joué *Délit de Fuite* et que vous êtes Lent), n'avancez pas le pion Aventurier et ne recevez aucun bonus.
 
 **Incertitude Quantique (8, action supérieure) -** Lorsque vous êtes Lent, traitez uniquement les modificateurs «réussite critique» (ceci inclue les cartes issues de l'état *Bénédiction*) comme des modificateurs «échec critique», et vice-versa lorsque vous êtes Rapide (en incluant les cartes issues de l'état *Malédiction*). Tous les autres modificateurs ne sont pas affectés et se comportent normalement.
 
-La bonne traduction pour cette carte serait, dans le cas Rapide, «*traitez tous les modificateurs d'attaque <img src="/assets/images/null.webp" alt="drawing"  width="20"/> comme des <img src="/assets/images/crit.webp" alt="drawing"  width="20"/>*» (et réciproquement pour le cas Lent).
+La bonne formulation pour cette carte serait, dans le cas Rapide, «*traitez tous les modificateurs d'attaque <img src="/assets/images/null.webp" alt="drawing"  width="20"/> comme des <img src="/assets/images/crit.webp" alt="drawing"  width="20"/>*» (et réciproquement pour le cas Lent).
 
 ![divider](/assets/images/divider2.png)
 
@@ -113,7 +115,7 @@ La bonne traduction pour cette carte serait, dans le cas Rapide, «*traitez tous
 
 **Scénario 20 -** Les règles spéciales de la section 14.3 sont incomplètes. La traduction complète est: <span class="hidden"> «*Ne générez pas l'Hélice Ardente pour la dernière Armoire en Métal. À la place, générez deux Automates d'Acier sur l'Orbe Lumineux. Ils sont normaux (pour deux aventuriers) ou d'élite (pour trois ou quatre aventuriers). L'Orbe Lumineux peut désormais subir des dégâts. Il a Ax(NS+2) points de vie. C'est votre adversaire et l'allié de tous les monstres.*»</span>
 
-**Scénario 34 -** Les Étincelles du Chaos ont 1+NS points de vie, et non pas 1+A points de vie.
+**Scénario 34 -** <span class="hidden"> Les Étincelles du Chaos ont 1+NS points de vie, et non pas 1+A points de vie. </span>
 
 ![divider](/assets/images/divider.png)
 
