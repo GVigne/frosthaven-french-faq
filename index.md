@@ -54,7 +54,7 @@ Si vous repérez une erreur qui n'est pas listée ici, n'hésitez pas à m'en fa
 
 **Incertitude Quantique (8, action supérieure) -** Lorsque vous êtes Lent, traitez uniquement les modificateurs «réussite critique» (ceci inclue les cartes issues de l'état *Bénédiction*) comme des modificateurs «échec critique», et vice-versa lorsque vous êtes Rapide (en incluant les cartes issues de l'état *Malédiction*). Tous les autres modificateurs ne sont pas affectés et se comportent normalement.
 
-La bonne formulation pour cette carte serait, dans le cas Rapide, «*traitez tous les modificateurs d'attaque <img src="/assets/images/null.webp" alt="échec critique"  class="small-image"/> comme des <img src="/assets/images/crit.webp" alt="réussite critique" class="small-image"/>*» (et réciproquement pour le cas Lent).
+La bonne formulation pour cette carte serait, dans le cas Rapide, «*traitez tous les modificateurs d'attaque ![crit](/assets/images/null.webp){: style="width: 20px; vertical-align: middle;"} comme des ![crit](/assets/images/crit.webp){: style="width: 20px; vertical-align: middle;"}*» (et réciproquement pour le cas Lent).
 
 ![divider](/assets/images/divider2.png)
 
