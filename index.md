@@ -40,7 +40,7 @@ Si vous repérez une erreur qui n'est pas listée ici, n'hésitez pas à m'en fa
 
 ### <a name="page_10" class="page-number">2.0</a> Livret des énigmes
 
-**Énigme page 4 -** Il y a une erreur dans l'en-tête de la section correspondant à la solution de cette énigme. Celui-ci indique «*Solution de l'Énigme de la page 8*», alors qu'il devrait indiquer «*Solution de l'Énigme de la page 4*». La solution de cette énigme est bien le numéro de section <span class="hidden"> 30.6 </span>.
+**Énigme page 4 -** Il y a une erreur dans l'en-tête de la section correspondant à la solution de cette énigme. Celui-ci indique «*Solution de l'Énigme de la page 8*», alors qu'il devrait indiquer «*Solution de l'Énigme de la page 4*». La solution de cette énigme est bien le numéro de section <span class="hidden"> 30.6</span>.
 
 **Remarque sur l'énigme de la page 4 -** Une traduction plus littérale de la dernière phrase du dernier paragraphe de l'énoncé de l'énigme serait <span class="hidden"> «*Je ne suis sûr de rien, mais si vous avez trois mots qui correspondent, cela pourrait nous mener vers autre chose*» </span>.
 
@@ -54,7 +54,7 @@ Si vous repérez une erreur qui n'est pas listée ici, n'hésitez pas à m'en fa
 
 **Incertitude Quantique (8, action supérieure) -** Lorsque vous êtes Lent, traitez uniquement les modificateurs «réussite critique» (ceci inclue les cartes issues de l'état *Bénédiction*) comme des modificateurs «échec critique», et vice-versa lorsque vous êtes Rapide (en incluant les cartes issues de l'état *Malédiction*). Tous les autres modificateurs ne sont pas affectés et se comportent normalement.
 
-La bonne formulation pour cette carte serait, dans le cas Rapide, «*traitez tous les modificateurs d'attaque <img src="/assets/images/null.webp" alt="drawing"  width="20"/> comme des <img src="/assets/images/crit.webp" alt="drawing"  width="20"/>*» (et réciproquement pour le cas Lent).
+La bonne formulation pour cette carte serait, dans le cas Rapide, «*traitez tous les modificateurs d'attaque <img src="/assets/images/null.webp" alt="échec critique"  class="small-image"/> comme des <img src="/assets/images/crit.webp" alt="réussite critique" class="small-image"/>*» (et réciproquement pour le cas Lent).
 
 ![divider](/assets/images/divider2.png)
 
