@@ -11,6 +11,7 @@
    1. <a href="#page_84">Arpenteuse des Ombres</a>
    1. <a href="#page_85">Marionnettiste</a>
    1. <a href="#page_86">Géminé</a>
+   1. <a href="#page_87">«Lune et Étoile»</a>
    1. <a href="#page_811">«Chaînes»</a>
    1. <a href="#page_816">«Prisme»</a>
    1. <a href="#page_817">«Foreuse»</a>
@@ -62,7 +63,7 @@ La bonne formulation pour cette carte serait, dans le cas Rapide, «*traitez tou
 
 **Attirance Délétère (4, action supérieure) -** L'adversaire ciblé n'a pas besoin d'être adjacent (traitez la capacité comme s'il n'y avait pas le mot «*adjacent*»).
 
-**Prolifération des Abysses (7, action supérieure) -** Cette action est un peu ambigüe. Pour pouvoir déclencher son effet, il faut que le personnage qui subit des dégâts (vous ou un allié) occupe ou soit adjacent à une ombre. Le fait que l'Arpenteuse des Ombres occupe ou soit adjacente à une ombre à cet instant n'a pas d'imporance.
+**Prolifération des Abysses (7, action supérieure) -** Cette action est un peu ambigüe. Pour pouvoir déclencher son effet, il faut que le personnage qui subit des dégâts (vous ou un allié) occupe ou soit adjacent à une ombre. Le fait que l'Arpenteuse des Ombres occupe ou soit adjacente à une ombre à cet instant n'a pas d'importance.
 
 **Figé par la Peur (8, action supérieure) -** Il y a un symbole «dégâts» supplémentaire au dessus du cartouche dans le coin inférieur de l'action. Ce symbole ne correspond à rien, ignorez le.
 
@@ -83,7 +84,15 @@ La bonne formulation pour cette carte serait, dans le cas Rapide, «*traitez tou
 <br>
 ![divider](/assets/images/divider2.png)
 
-### ![Shackles Icon](/assets/images/11_shackles.webp) <a name="page_811" class="page-number">3.5</a> «Chaînes»
+### ![Astral Icon](/assets/images/07_astral.webp) <a name="page_87" class="page-number">3.5</a> «Lune et Étoile»
+<details>
+<summary><b>Spoilers pour Lune et Étoile</b></summary>
+<p><b>Vent Arrière (6, action supérieure) -</b> Il manque la valeur du déplacement pour l'effet permanent. L'effet permanent de cette action vous permet d'effectuer un déplacement de valeur 2 après chaque capacité d'attaque.  </p>
+</details>
+<br>
+![divider](/assets/images/divider2.png)
+
+### ![Shackles Icon](/assets/images/11_shackles.webp) <a name="page_811" class="page-number">3.6</a> «Chaînes»
 <details>
 <summary><b>Spoilers pour Chaînes</b></summary>
 <p><b>Seconde maîtrise -</b> Remplacez «Bénédiction» par «Étourdissement». Vous devez bien commencer un tour avec tous les états négatifs à l'exception de «Incapacité» (et «Malédiction»).</p>
@@ -91,7 +100,7 @@ La bonne formulation pour cette carte serait, dans le cas Rapide, «*traitez tou
 <br>
 ![divider](/assets/images/divider2.png)
 
-### ![Prism Icon](/assets/images/16_prism.webp) <a name="page_816" class="page-number">3.6</a> «Prisme»
+### ![Prism Icon](/assets/images/16_prism.webp) <a name="page_816" class="page-number">3.7</a> «Prisme»
 <details>
 <summary><b>Spoilers pour Prisme</b></summary>
 <p><b>Fiche de personnage - Deuxième et troisième bénéfice -</b> Il manque les valeurs numérique des cartes ajoutées par ces bénéfices: pour le second, la carte ajoutée a une valeur de «+0», et pour le troisième, la carte ajoutée a une valeur de «+1». Notez que les cartes modificateurs d'attaques présentent bien la bonne valeur numérique. </p>
@@ -100,7 +109,7 @@ La bonne formulation pour cette carte serait, dans le cas Rapide, «*traitez tou
 
 ![divider](/assets/images/divider2.png)
 
-### ![Drill Icon](/assets/images/17_drill.webp) <a name="page_817" class="page-number">3.7</a> «Foreuse»
+### ![Drill Icon](/assets/images/17_drill.webp) <a name="page_817" class="page-number">3.8</a> «Foreuse»
 <details>
 <summary><b>Spoilers pour Foreuse</b></summary>
 <p><b>Fiche de personnage - Quatrième Bénéfice -</b> Il manque le symbole «Combo» pour le Modificateur d'Attaque «Riposte 2». Notez que les cartes Modificateurs d'Attaques présentent bien ce symbole. </p>
