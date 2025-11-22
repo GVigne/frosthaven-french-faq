@@ -2,7 +2,7 @@
 
 # **ERRATA NON OFFICIEL DE LA VF DE FROSTHAVEN**
 
-*Dernière mise à jour le 2025-10-18*
+*Dernière mise à jour le 21 novembre 2025*
 
 1. <a href="#page_3">Livret de règles</a>
 1. <a href="#page_10">Livret des énigmes</a>
