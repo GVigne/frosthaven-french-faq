@@ -2,7 +2,7 @@
 
 # **ERRATA NON OFFICIEL DE LA VF DE FROSTHAVEN**
 
-*Dernière mise à jour le 21 novembre 2025*
+*Dernière mise à jour le 17 décembre 2025*
 
 1. <a href="#page_3">Livret de règles</a>
 1. <a href="#page_10">Livret des énigmes</a>
@@ -16,6 +16,7 @@
    1. <a href="#page_816">«Prisme»</a>
    1. <a href="#page_817">«Foreuse»</a>
 1. <a href="#page_9">Scénarios</a>
+1. <a href="#page_5">Bâtiments</a>
 1. <a href="#page_4">Évènements de route et d'avant-poste</a>
 1. <a href="#page_11">Typos</a>
 
@@ -118,7 +119,7 @@ La bonne formulation pour cette carte serait, dans le cas Rapide, «*traitez tou
 
 ![divider](/assets/images/divider.png)
 
-### <a name="page_9" class="page-number">4.0</a> Scénarios
+## <a name="page_9" class="page-number">4.0</a> Scénarios
 
 **Scénario 7 - Section 7.2 -** <span class="hidden"> Au début du cinquième round, générez un Cadavre Gelé sur **c** et non sur **b**.</span>
 
@@ -128,13 +129,20 @@ La bonne formulation pour cette carte serait, dans le cas Rapide, «*traitez tou
 
 ![divider](/assets/images/divider.png)
 
-## <a name="page_4" class="page-number">5.0</a> Évènements de route et d'avant-poste
+## <a name="page_5" class="page-number">5.0</a> Bâtiments
+
+**Bâtiment 44 <span class="hidden">(Yourte Sacrée)</span> -** <span class="hidden">Il y a une erreur dans la partie récompense de la section lue lors de la construction du premier niveau (section 193.1). En plus de l'évènement d'avant-poste d'été APÉ-63, ajoutez l'évènement de *route* d'hiver RH-44 (et non pas l'évènement d'avant-poste d'hiver APH-44). </span>
+
+![divider](/assets/images/divider.png)
+
+
+## <a name="page_4" class="page-number">6.0</a> Évènements de route et d'avant-poste
 
 **RÉ-11 - Option A -** <span class="hidden"> Ne lisez le premier paragraphe que si vous êtes Intimidant. Si vous êtes Éloquent, lisez la section «Autrement». </span>
 
 ![divider](/assets/images/divider.png)
 
-## <a name="page_11" class="page-number">6.0</a> Typos
+## <a name="page_11" class="page-number">7.0</a> Typos
 Le but de cette section est de recenser toutes les erreurs de typographies qui ne présentent pas de problèmes de compréhension ou qui ne modifient pas les règles du jeu.
 
 **Livret de règles (page 79) -** Il manque les coches pour les contenus des coffres pillés.
