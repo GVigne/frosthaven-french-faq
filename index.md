@@ -2,7 +2,7 @@
 
 # **ERRATA NON OFFICIEL DE LA VF DE FROSTHAVEN**
 
-*Dernière mise à jour le 17 décembre 2025*
+*Dernière mise à jour le 7 janvier 2026*
 
 1. <a href="#page_3">Livret de règles</a>
 1. <a href="#page_10">Livret des énigmes</a>
@@ -12,6 +12,7 @@
    1. <a href="#page_85">Marionnettiste</a>
    1. <a href="#page_86">Géminé</a>
    1. <a href="#page_87">«Lune et Étoile»</a>
+   1. <a href="#page_88">«Météore»</a>
    1. <a href="#page_811">«Chaînes»</a>
    1. <a href="#page_816">«Prisme»</a>
    1. <a href="#page_817">«Foreuse»</a>
@@ -93,7 +94,15 @@ La bonne formulation pour cette carte serait, dans le cas Rapide, «*traitez tou
 <br>
 ![divider](/assets/images/divider2.png)
 
-### ![Shackles Icon](/assets/images/11_shackles.webp) <a name="page_811" class="page-number">3.6</a> «Chaînes»
+### ![Meteor Icon](/assets/images/08_meteor.webp) <a name="page_88" class="page-number">3.6</a> «Météore»
+<details>
+<summary><b>Spoilers pour Météore</b></summary>
+<p><b>Rage Contenue (1, action supérieure) -</b> Il manque la valeur de portée pour la poussée. La capacité de poussée est à portée 1.</p>
+</details>
+<br>
+![divider](/assets/images/divider2.png)
+
+### ![Shackles Icon](/assets/images/11_shackles.webp) <a name="page_811" class="page-number">3.7</a> «Chaînes»
 <details>
 <summary><b>Spoilers pour Chaînes</b></summary>
 <p><b>Seconde maîtrise -</b> Remplacez «Bénédiction» par «Étourdissement». Vous devez bien commencer un tour avec tous les états négatifs à l'exception de «Incapacité» (et «Malédiction»).</p>
@@ -101,7 +110,7 @@ La bonne formulation pour cette carte serait, dans le cas Rapide, «*traitez tou
 <br>
 ![divider](/assets/images/divider2.png)
 
-### ![Prism Icon](/assets/images/16_prism.webp) <a name="page_816" class="page-number">3.7</a> «Prisme»
+### ![Prism Icon](/assets/images/16_prism.webp) <a name="page_816" class="page-number">3.8</a> «Prisme»
 <details>
 <summary><b>Spoilers pour Prisme</b></summary>
 <p><b>Fiche de personnage - Deuxième et troisième bénéfice -</b> Il manque les valeurs numérique des cartes ajoutées par ces bénéfices: pour le second, la carte ajoutée a une valeur de «+0», et pour le troisième, la carte ajoutée a une valeur de «+1». Notez que les cartes modificateurs d'attaques présentent bien la bonne valeur numérique. </p>
@@ -110,7 +119,7 @@ La bonne formulation pour cette carte serait, dans le cas Rapide, «*traitez tou
 
 ![divider](/assets/images/divider2.png)
 
-### ![Drill Icon](/assets/images/17_drill.webp) <a name="page_817" class="page-number">3.8</a> «Foreuse»
+### ![Drill Icon](/assets/images/17_drill.webp) <a name="page_817" class="page-number">3.9</a> «Foreuse»
 <details>
 <summary><b>Spoilers pour Foreuse</b></summary>
 <p><b>Fiche de personnage - Quatrième Bénéfice -</b> Il manque le symbole «Combo» pour le Modificateur d'Attaque «Riposte 2». Notez que les cartes Modificateurs d'Attaques présentent bien ce symbole. </p>
@@ -131,7 +140,9 @@ La bonne formulation pour cette carte serait, dans le cas Rapide, «*traitez tou
 
 ## <a name="page_5" class="page-number">5.0</a> Bâtiments
 
-**Bâtiment 44 <span class="hidden">(Yourte Sacrée)</span> -** <span class="hidden">Il y a une erreur dans la partie récompense de la section lue lors de la construction du premier niveau (section 193.1). En plus de l'évènement d'avant-poste d'été APÉ-63, ajoutez l'évènement de *route* d'hiver RH-44 (et non pas l'évènement d'avant-poste d'hiver APH-44). </span>
+**Bâtiment 44 <span class="hidden">(Yourte Sacrée)</span> -** <span class="hidden">Il y a une erreur dans la partie récompense de la section lue lors de la construction du premier niveau (section 193.1). En plus de l'évènement d'avant-poste d'été APÉ-63, ajoutez l'évènement de *route* d'hiver RH-44 (et non pas l'évènement *d'avant-poste* d'hiver APH-44). </span>
+
+**Bâtiment 83 <span class="hidden">(Bibliothèque)</span> -** <span class="hidden">Il y a une erreur dans la partie récompense de la section lue lors de la construction du premier niveau (section 190.3). Lisez la section 164.2 si vous avez le trait *Instruit* (le trait *Érudit* n'existe pas). </span>
 
 ![divider](/assets/images/divider.png)
 
