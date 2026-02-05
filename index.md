@@ -2,7 +2,7 @@
 
 # **ERRATA NON OFFICIEL DE LA VF DE FROSTHAVEN**
 
-*Dernière mise à jour le 7 janvier 2026*
+*Dernière mise à jour le 5 février 2026*
 
 1. <a href="#page_3">Livret de règles</a>
 1. <a href="#page_10">Livret des énigmes</a>
@@ -134,7 +134,10 @@ La bonne formulation pour cette carte serait, dans le cas Rapide, «*traitez tou
 
 **Scénario 20 -** Les règles spéciales de la section 14.3 sont incomplètes. La traduction complète est: <span class="hidden"> «*Ne générez pas l'Hélice Ardente pour la dernière Armoire en Métal. À la place, générez deux Automates d'Acier sur l'Orbe Lumineux. Ils sont normaux (pour deux aventuriers) ou d'élite (pour trois ou quatre aventuriers). L'Orbe Lumineux peut désormais subir des dégâts. Il a Ax(NS+2) points de vie. C'est votre adversaire et l'allié de tous les monstres.*»</span>
 
-**Scénario 34 -** <span class="hidden"> Les Étincelles du Chaos ont 1+NS points de vie, et non pas 1+A points de vie. </span>
+**Scénario 34 -** <span class="hidden"> Les Étincelles du Chaos ont 1+NS points de vie, et non pas 1+A points de vie.
+<br>
+Pour le Spécial 2 du boss pour 2 aventuriers, générez une Étincelle du Chaos en *a*, et non pas en *b*.
+</span>
 
 ![divider](/assets/images/divider.png)
 
