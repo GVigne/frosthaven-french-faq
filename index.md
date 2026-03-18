@@ -2,7 +2,7 @@
 
 # **ERRATA NON OFFICIEL DE LA VF DE FROSTHAVEN**
 
-*Dernière mise à jour le 5 février 2026*
+*Dernière mise à jour le 18 mars 2026*
 
 1. <a href="#page_3">Livret de règles</a>
 1. <a href="#page_10">Livret des énigmes</a>
@@ -35,7 +35,7 @@ Si vous repérez une erreur qui n'est pas listée ici, n'hésitez pas à m'en fa
 ## <a name="page_3" class="page-number">1.0</a> Livret de règles
 **Terrain Difficile (page 14) -** Tout comme un personnage avec saut, un personnage qui vole ignore la pénalité pour entrer dans un hexagone terrain difficile, y compris s'il s'agit du dernier hexagone de son déplacement.
 
-**Obstacles (page 15) -** Un personnage avec vol peut terminer son déplacement sur un obstacle, mais un personnage avec saut ne peut faire de même. Pour lever toute ambigüité, le texte entre parenthèse devrait être «*(à moins que le saut ne s'y termine)*».
+**Obstacles (page 15) -** Un personnage avec vol peut terminer son déplacement sur un obstacle, mais un personnage avec saut ne peut faire de même. Pour lever toute ambiguïté, le texte entre parenthèse devrait être «*(à moins que le saut ne s'y termine)*».
 
 **Cartes Capacité de Monstre (page 40) -** La défausse n'est remélangée dans la pioche qu'à la fin d'un *round* où une carte avec l'icône « Mélanger » est jouée, et non pas à la fin d'un tour.
 
@@ -131,6 +131,8 @@ La bonne formulation pour cette carte serait, dans le cas Rapide, «*traitez tou
 ## <a name="page_9" class="page-number">4.0</a> Scénarios
 
 **Scénario 7 - Section 7.2 -** <span class="hidden"> Au début du cinquième round, générez un Cadavre Gelé sur **c** et non sur **b**.</span>
+
+**Scénario 17 -** <span class="hidden"> La règle concernant les tuiles Pièges est ambigüe. Seuls les Pièges ajoutés lors de la mise en place initiale du scénario et lorsque des salles sont révélées se comportent comment des Dalles de Pression. Ceci est dû à des raisons matérielles (pas assez de pions Dalles de Pression dans la boîte de jeu). Les Pièges placés par les capacités des aventuriers fonctionnent normalement.</span>
 
 **Scénario 20 -** Les règles spéciales de la section 14.3 sont incomplètes. La traduction complète est: <span class="hidden"> «*Ne générez pas l'Hélice Ardente pour la dernière Armoire en Métal. À la place, générez deux Automates d'Acier sur l'Orbe Lumineux. Ils sont normaux (pour deux aventuriers) ou d'élite (pour trois ou quatre aventuriers). L'Orbe Lumineux peut désormais subir des dégâts. Il a Ax(NS+2) points de vie. C'est votre adversaire et l'allié de tous les monstres.*»</span>
 
