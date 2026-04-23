@@ -122,6 +122,9 @@ La bonne formulation pour cette carte serait, dans le cas Rapide, «*traitez tou
 ### ![Drill Icon](/assets/images/17_drill.webp) <a name="page_817" class="page-number">3.9</a> «Foreuse»
 <details>
 <summary><b>Spoilers pour Foreuse</b></summary>
+
+<p><b>Radiation (5, action inférieure) -</b> Une meilleure formulation serait «<i>Pour votre prochain effet d'automutilation <b>où</b> vous êtes adjacent à au moins un adversaire...</i>». Si vous n'êtes adjacent à aucun adversaire lors de votre prochain effet d'automutilation, ne défaussez pas cette carte (et subissez les dégâts normalement).</p>
+
 <p><b>Fiche de personnage - Quatrième Bénéfice -</b> Il manque le symbole «Combo» pour le Modificateur d'Attaque «Riposte 2». Notez que les cartes Modificateurs d'Attaques présentent bien ce symbole. </p>
 </details>
 <br>
@@ -165,7 +168,11 @@ Le but de cette section est de recenser toutes les erreurs de typographies qui n
 
 **Quête Personnelle 05 (Bâtir, pas Détruire) -** À la fin de la dernière phrase: «*l'agrandissement de douze bâtiments de bâtiments différents*».
 
+**Scénarios 33 -** À la fin de la première phrase de l'introduction: «*ces bois sous tout le contraire*».
+
 **Scénarios 65 -** À la quatrième ligne de l'avant-dernier paragraphe de l'introduction: «*avez l'impression qu'il que l'air*».
+
+**Section 142.3** <span class="hidden"> À la dernière ligne de la section: «*que n'ont n'ayons pas d'autre plan.*». </span>
 
 **Verso du plateau d'aventurier de la Porte-Bannière -** À la troisième et quatrième ligne du deuxième paragraphe: «*Mais à Havreblanc l'orgueil n'a pas sa place. Mais Havreblanc n'a que faire de l'orgueil*».
 
