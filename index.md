@@ -2,7 +2,7 @@
 
 # **ERRATA NON OFFICIEL DE LA VF DE FROSTHAVEN**
 
-*Dernière mise à jour le 18 mars 2026*
+*Dernière mise à jour le 24 août 2026*
 
 1. <a href="#page_3">Livret de règles</a>
 1. <a href="#page_10">Livret des énigmes</a>
@@ -174,9 +174,14 @@ Le but de cette section est de recenser toutes les erreurs de typographies qui n
 
 **Section 142.3** <span class="hidden"> À la dernière ligne de la section: «*que n'ont n'ayons pas d'autre plan.*». </span>
 
+**Section 17.4** <span class="hidden"> À la première ligne de l'avant-dernier paragraphe «Vous posez la marmite et reculez. *Le voyant rempli* de ragoût». </span>
+
 **Verso du plateau d'aventurier de la Porte-Bannière -** À la troisième et quatrième ligne du deuxième paragraphe: «*Mais à Havreblanc l'orgueil n'a pas sa place. Mais Havreblanc n'a que faire de l'orgueil*».
 
 **Fiche personnage «Foreuse» - Septième Bénéfice -** <span class="hidden"> Le symbole «-1» d'effets d'objets a été substitué par un symbole «-1» de Modificateur d'Attaque. </span>
+
+**Objet 129 -** <span class="hidden"> **Jumelles Oeil-de-Faucon** «gagnez Avantage pour *toute* les attaques» </span>
+
 
 <script>
 	function reveal(obj) {
