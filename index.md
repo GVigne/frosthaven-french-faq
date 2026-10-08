@@ -2,7 +2,7 @@
 
 # **ERRATA NON OFFICIEL DE LA VF DE FROSTHAVEN**
 
-*Dernière mise à jour le 24 août 2026*
+*Dernière mise à jour le 8 octobre 2026*
 
 1. <a href="#page_3">Livret de règles</a>
 1. <a href="#page_10">Livret des énigmes</a>
@@ -46,6 +46,8 @@ Si vous repérez une erreur qui n'est pas listée ici, n'hésitez pas à m'en fa
 **Énigme page 4 -** Il y a une erreur dans l'en-tête de la section correspondant à la solution de cette énigme. Celui-ci indique «*Solution de l'Énigme de la page 8*», alors qu'il devrait indiquer «*Solution de l'Énigme de la page 4*». La solution de cette énigme est bien le numéro de section <span class="hidden"> 30.6</span>.
 
 **Remarque sur l'énigme de la page 4 -** Une traduction plus littérale de la dernière phrase du dernier paragraphe de l'énoncé de l'énigme serait <span class="hidden"> «*Je ne suis sûr de rien, mais si vous avez trois mots qui correspondent, cela pourrait nous mener vers autre chose*» </span>.
+
+**Énigme page 14 -** Il manque une partie des informations permettant de résoudre cette énigme. <span class="hidden"> Sur la dernière ligne de tirets, le sixième et douzième caractère devraient être soulignés. La solution pour cette ligne est <span class="hidden"> *Danseuse des Neiges*, formant le numéro <span class="hidden">**1**.</span> </span> </span> La solution de cette énigme est bien le numéro de section <span class="hidden"> 30.1</span>.
 
 ![divider](/assets/images/divider.png)
 
